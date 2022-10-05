@@ -7,7 +7,7 @@ This is a template for using gin and air in the Go language.
 
 2. write go.mod
 
-module nothing-behind.com/sample_gin
+module XXX
 
 go 1.19
 
